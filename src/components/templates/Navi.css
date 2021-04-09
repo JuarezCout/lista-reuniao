@@ -1,0 +1,23 @@
+.menu-area {
+    font-size: 20px;
+    align-content: center;
+}
+
+aside.menu-area {
+    box-shadow: 
+        1px 0 5px 0  rgba(20, 20, 20, .2),
+        1px 0 5px 0  rgba(20, 20, 20, .2);
+    text-align: center;
+}
+
+ul a {
+    text-decoration: none;
+    color: black;
+    font-weight: 300;
+    margin: 5px;
+    margin-right: 50px;
+}
+
+ ul a:hover {
+    background: linear-gradient(135deg, white 0%, #555555 100%);
+} 

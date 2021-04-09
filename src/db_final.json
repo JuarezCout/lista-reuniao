@@ -1,0 +1,169 @@
+{
+    "listas": [
+      {
+        "nome": "Reunião Geral do Ministério",
+        "data": "01/02/2021",
+        "localidades": [
+          {
+            "id": 0,
+            "nome": "Fortaleza",
+            "servicos": [
+              {
+                "id": 0,
+                "nome": "BATISMO",
+                "reunioes": [
+                  {
+                    "id": 0,
+                    "data": "2021-02-01",
+                    "dia": "ter",
+                    "hora": "18:30",
+                    "local": "Messejana",
+                    "anciao": "José Mauricio"
+                  },
+                  {
+                    "id": 1,
+                    "data": "2021-02-10",
+                    "dia": "qui",
+                    "hora": "17:30",
+                    "local": "Fortaleza - Central",
+                    "anciao": "Francisco Nazareno"
+                  }
+                ]
+              },
+              {
+                "id": 1,
+                "nome": "SANTA CEIA",
+                "reunioes": [
+                  {
+                    "id": 0,
+                    "data": "2021-02-01",
+                    "dia": "ter",
+                    "hora": "17:00",
+                    "local": "Central - Fortaleza",
+                    "anciao": "Alaecio"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "nome": "REUNIÃO DE MOCIDADE",
+                "reunioes": [
+                  {
+                    "id": 0,
+                    "data": "2021-02-03",
+                    "dia": "qua",
+                    "hora": "15:30",
+                    "local": "Parque Genibaú",
+                    "anciao": "Bezerra"
+                  }
+                ]
+              }
+            ],
+            "diversos": [
+              {
+                "servicos_extras": [
+                  {
+                    "id": 0,
+                    "nome": "AGO ( ASSEMBLEIAS GERAIS ORDINÁRIAS)",
+                    "reunioes_extras": [
+                      {
+                        "id": 0,
+                        "data": "2021-02-09",
+                        "dia": "dom",
+                        "hora": "18:30",
+                        "local": "Maracanaú"
+                      },
+                      {
+                        "id": 1,
+                        "data": "2021-02-15",
+                        "dia": "sab",
+                        "hora": "19:30",
+                        "local": "Crateús"
+                      },
+                      {
+                        "id": 2,
+                        "data": "2021-02-16",
+                        "dia": "dom",
+                        "hora": "18:30",
+                        "local": "Itapipoca"
+                      }
+                    ],
+                    "obs": [
+                      {
+                        "id": 0,
+                        "text_obs": "Obs: Será necessário a apresentação do RG para assinatura da lista de presença.",
+                        "negrito": false
+                      }
+                    ]
+                  }
+                ],
+                "obs": [
+                  {
+                    "id": 0,
+                    "text_obs": "COLETA PARA DESPESAS DE REUNIÕES: Todo Fruto que Deus preparar no útlimo culto do mês de janeiro nas casas de oração da Administração de Fortaleza será destinado à coleta para despesas de reuniões e assembleias.",
+                    "negrito": false
+                  },
+                  {
+                    "id": 1,
+                    "text_obs": "A reunião para mocidade em Maranguape foi transferida do dia 19/01 para o dia 02/02 às 09 h.",
+                    "negrito": false
+                  },
+                  {
+                    "id": 2,
+                    "text_obs": "REUNIÃO PARA CRIANÇAS: Todos os Sábados às 19h30, há reuniões para crianças de 04 à 12 anos na Central de Fortaleza (no salão de reunião).",
+                    "negrito": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "nome": "Demais Localidades",
+            "servicos": [
+              {
+                "id": 0,
+                "nome": "BATISMO",
+                "reunioes": [
+                  {
+                    "id": 0,
+                    "data": "2021-02-01",
+                    "dia": "seg",
+                    "hora": "18:30",
+                    "local": "Croatá - São Gonçado do Amarante",
+                    "anciao": "Marcio Freire"
+                  },
+                  {
+                    "id": 1,
+                    "data": "2021-02-16",
+                    "dia": "ter",
+                    "hora": "15:30",
+                    "local": "Tejuçuoca",
+                    "anciao": "Leandro Dias"
+                  }
+                ]
+              }
+            ],
+            "diversos": [
+              {
+                "servicos_extras": [],
+                "obs": [
+                  {
+                    "id": 0,
+                    "text_obs": "MUDANÇA DE DIA DE CULTO: A partir do dia 19/01, domingo, os cultos na casa de oração em itaitinga passam a ser realizados nas quartas-feiras às 19h30 e domingos às 18h30.",
+                    "negrito": false
+                  },
+                  {
+                    "id": 1,
+                    "text_obs": "Na Reunião Geral do Ministério Local realizada no Sábado, 04/01/2020, às 13h30, na Central de Fortaleza, estiveram presentes 93 irmãos.",
+                    "negrito": false
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "id": 1
+      }
+    ]
+  }

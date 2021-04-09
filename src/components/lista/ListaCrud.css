@@ -1,0 +1,43 @@
+p {
+    text-align: center;
+    font-size: 17px;
+    padding-bottom: 0;
+}
+
+input {
+    padding-top: 0x;
+}
+
+#obs_prev {  
+    white-space: pre-wrap;
+    text-align: left;
+    align-content: left;
+}
+
+#header {
+    text-align: center;
+}
+
+label {
+    text-align: center;
+}
+
+#reuniao {
+    text-align: center;
+}
+
+h2, h3, h4 {
+    font-weight: bolder;
+}
+
+.form-control {
+    margin: 15px 0;
+  font-size: 16px;
+  padding: 10px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background: rgba(20, 20, 20, .2);
+  color: white;
+  outline: none;
+}

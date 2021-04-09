@@ -6,7 +6,6 @@ import Main from '../templates/Main'
 import { Container, Row, Col } from 'reactstrap'
 import { Link } from 'react-router-dom'
 import header_img from "../../assets/imgs/header.PNG"
-import html2pdf from 'html2pdf.js'
 
 const headerProps = {
 	icon: 'listas',

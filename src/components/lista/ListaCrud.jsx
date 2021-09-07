@@ -7,7 +7,6 @@ import Servicos from '../localidade/servico/Servico'
 import Reunioes from '../localidade/servico/reunioes/Reunioes'
 import { Container, Row, Col } from 'reactstrap'
 import { Link } from 'react-router-dom'
-import Popup from 'reactjs-popup';
 
 require('../../api/config/server')
 
